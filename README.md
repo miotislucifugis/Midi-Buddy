@@ -1,2 +1,2 @@
-# Midi_Buddy
+# Midi-Buddy
 A midi companion for Norns Shield
